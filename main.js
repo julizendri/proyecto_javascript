@@ -46,7 +46,8 @@ let email = prompt ("Ingrese su email aqui!")
 let telefono = prompt ("Ingrese su teléfono aqui!")
 
 function despedir (){
-    alert ( nombre + ", a continuación esta su tarjeta. Esperamoos que la disfrute.");
+    alert ( nombre + ", a continuación está su tarjeta. Esperamoos que la disfrute.");
 }
 
 despedir ()
+
